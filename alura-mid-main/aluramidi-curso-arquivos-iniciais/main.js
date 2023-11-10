@@ -1,0 +1,1 @@
+alert('bom dia e vamos para as semis da liberta')
